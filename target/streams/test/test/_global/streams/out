@@ -1,0 +1,24 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FuzzyLogicDSLTest, org.scalatest.tools.Framework$$anon$1@7b3afae2, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFuzzyLogicDSLTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFuzzyLogicDSL[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly evaluate ADD operation[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly evaluate MULT operation[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly evaluate XOR operation[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly evaluate composite gate with nested operations[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly throw an error when input is missing[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly handle input overrides and value cap[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFuzzySet operations[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly evaluate XOR for two fuzzy sets[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly evaluate ADD for two fuzzy sets[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly evaluate MULT for two fuzzy sets[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly evaluate UNION for two fuzzy sets[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly evaluate INTERSECTION for two fuzzy sets[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly evaluate COMPLEMENT for a fuzzy set[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly evaluate the α-cut(0.6) for a fuzzy set[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 478 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 13[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 13, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FuzzyLogicDSLTest[0m
